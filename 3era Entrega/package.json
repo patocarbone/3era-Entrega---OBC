@@ -1,0 +1,11 @@
+{
+  "name": "3era-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorial-for.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
